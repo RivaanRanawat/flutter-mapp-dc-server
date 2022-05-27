@@ -1,0 +1,473 @@
+[
+    {
+        "id": "kNPN3c-8-2sC",
+        "title": "Fibrilación y flutter auricular",
+        "authors": [
+            "Julián Pérez Villacastín",
+            "Josep Lluís Mont Girbau"
+        ],
+        "publisher": "MARGE BOOKS",
+        "publishedDate": "2007-03-01",
+        "description": "Esta obra coordinada por el doctor Lluís Mont y el doctor Julián Pérez Villascastín es un título de la colección «Arritmias y estimulación cardíaca » cuya finalidad es difundir el conocimiento sobre las técnicas más novedosas y los últimos avances en el tratamiento de diversas patologías. El objetivo de la obra Fibrilación y flutter auricular es contribuir a la difusión didáctica y asequible de los conocimientos más novedosos en este campo para que el lector pueda hallar en sus páginas una herramienta práctica para el tratamiento de esta patología. El Dr. Lluís Mont i Girbau es jefe de la Sección de Arritmias del Institut del Tòrax y del Hospital Clínic de Barcelona. El Dr. Julián Pérez-Villacastín es jefe de la Unidad de Arritmias del Instituto Cardiovascular y del Hospital Clínico San Carlos de Madrid.",
+        "language": "es",
+        "smallThumbnail": "http://books.google.com/books/content?id=kNPN3c-8-2sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=kNPN3c-8-2sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=kNPN3c-8-2sC&pg=PA185&dq=flutter&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kNPN3c-8-2sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kNPN3c-8-2sC"
+    },
+    {
+        "id": "ex-tDwAAQBAJ",
+        "title": "Beginning Flutter",
+        "subtitle": "A Hands On Guide to App Development",
+        "authors": [
+            "Marco L. Napoli"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2019-10-08",
+        "description": "Build your first app in Flutter—no experience necessary! Beginning Flutter: A Hands-On Guide to App Development is the essential resource for both experienced and novice developers interested in getting started with Flutter—the powerful new mobile software development kit. With Flutter, you can quickly and easily develop beautiful, powerful apps for both Android and iOS, without the need to learn multiple programming languages or juggle more than one code base. This book walks you through the process step by step. In Flutter, you’ll be working with Dart, the programming language of choice for top app developers. Even if you’re just starting out in your development career, you can learn Dart quickly, eliminating the barrier to entry for building apps. This is a more efficient way to develop and maintain cross-platform mobile apps, and this book makes the process even easier with a teach-by-example approach. Focus on providing quality content by eliminating the need to switch between multiple coding languages Learn the ins and outs of Flutter, including all the frameworks, widgets, and tools available to developers Accelerate your app development pace, keeping all the code for your cross-platform app in a single code base Leapfrog barriers to entry to the mobile software market, creating your first app with no experience necessary The Flutter community is growing rapidly and transforming the way Android and iOS apps get made. Beginning Flutter allows you to get on board with the latest app development technology, giving your mobile development career a big head start.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=ex-tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ex-tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=ex-tDwAAQBAJ&printsec=frontcover&dq=flutter&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.mx/books?id=ex-tDwAAQBAJ&dq=flutter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_Flutter.html?hl=&id=ex-tDwAAQBAJ"
+    },
+    {
+        "id": "I9TBDwAAQBAJ",
+        "title": "Beginning App Development with Flutter",
+        "subtitle": "Create Cross-Platform Mobile Apps",
+        "authors": [
+            "Rap Payne"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-12-04",
+        "description": "Create iOS and Android apps with Flutter using just one codebase. App development on multiple platforms has historically been difficult and complex. This book breaks down complex concepts and tasks into easily digestible segments with examples, pictures, and hands-on labs with starters and solutions. In doing so, you'll develop a basic understanding of the Dart programming language; the entire Flutter development toolchain; the differences between stateful and stateless widgets; and a working knowledge of the architecture of apps. All the most important parts of app development with Flutter are covered in this book. Work with themes and styles. Develop custom widgets. Teach your app to respond to gestures like taps, swipes, and pinches. Design, create and control the layout of your app. Create tools to handle form data entry from users. And ultimately create killer multiscreen apps with navigation, menus, and tabs. Flutter is Google's new framework for creating mobile apps that run on iOS and Android phones both.You had to be a super-developer to write apps for iOS or Android alone. But writing for both? Forget about it! You had to be familiar with Swift, Java/Kotlin, Xcode, Eclipse, and a bunch of other technologies simultaneously. Beginning App Development with Flutter simplifies the entire process. What You'll Learn Get the most out of great Flutter widgets Create custom widgets, both stateless and stateful Exercise expert control over your Flutter layouts Make your app respond to gestures like swiping, pinching and tapping Initiate async Ajax calls to RESTful APIs — including Google Firebase! Who This Book Is ForDevelopers who have coded in Java, C#, C++, or any similar language. It brings app development within the reach of younger developers, so STEM groups are likely to pick up the technology. Managers, product owners, and business analysts need to understand Flutter's capabilities.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=I9TBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=I9TBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=I9TBDwAAQBAJ&printsec=frontcover&dq=flutter&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I9TBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I9TBDwAAQBAJ"
+    },
+    {
+        "id": "GmTtDwAAQBAJ",
+        "title": "Flutter For Dummies",
+        "authors": [
+            "Barry Burd"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2020-08-04",
+        "description": "Create awesome iOS and Android apps with a single tool! Flutter is an app developer’s dream come true. With Google’s open source toolkit, you can easily build beautiful apps that work across platforms using a single codebase. This flexibility allows you to get your work out to the widest possible audience. With Flutter already being used by thousands of developers worldwide in a market where billions of apps are downloaded every year, now is the right time to get ahead of the curve with this incredible tool. Flutter for Dummies is your friendly, ground-up route to creating multi-platform apps. From how to construct your initial frameworks to writing code in Dart, you’ll find the essentials you need to ride the Flutter revolutionary wave to success. This book includes how to create an intuitive and stunning UI, add rich interactivity, and easily pull in data. You’ll also see how Flutter features like Hot Reload—providing sub-second refreshes as you refine your work—help you make sure your app is a delight to use. Start simple: follow steps to build a basic app It’s alive! Keep connected to online data It moves! Make things fun with animated features Get the word out: use tips to expand your audience Whether you’re a fledgling developer or an expert wanting to add a slick feather to your programming cap, join the Flutter revolution now and soar above the rest!",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=GmTtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=GmTtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=GmTtDwAAQBAJ&printsec=frontcover&dq=flutter&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.mx/books?id=GmTtDwAAQBAJ&dq=flutter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_For_Dummies.html?hl=&id=GmTtDwAAQBAJ"
+    },
+    {
+        "id": "Oi3RDwAAQBAJ",
+        "title": "Flutter",
+        "subtitle": "Guía definitiva",
+        "authors": [
+            "Jotta"
+        ],
+        "publisher": "Jotta",
+        "description": "¿Aún no conoces Flutter? ¿Sabes que puedes desarrollar aplicaciones nativas para iOs y Android sin necesidad de comprar un Mac? Y apuesto a que no sabias que... Flutter es el king de kings del desarrollo de aplicaciones nativas con el mejor tiempo de respuesta y con el diseño de interfaz más sencillo!!. Pega el salto a este mundo con este increíble manual, 70 páginas DONDE SE EXPLICA DE LA 'A' A LA 'Z' TODO LO QUE NECESITAS SABER PARA SER DESARROLLADOR FLUTTER o como nos gusta a los desarrolladores: FLUTTER DEVELOPER ;) En este manual aprenderás: • Crear bellas aplicaciones para Android e iOs con un solo código. • Conceptos y como programar con Dart. • Intender y aplicar el patrón BLoC. • Conectar tu aplicación a WebServices. El manual contiene: • Variables - Números - Strings - Boolean • Operaciones Aritméticas • Operaciones Condicionales • Flujos de control - If Else - Switch - For Loops - While / Do While • Funciones - Parámetros Opcionales · Posicionales · Nombrados - Recursiva • POO Programación orientada a objetos - Clases - Constructores - Herencia · Sobrescribir métodos · Herencia Constructor • Clases abstractas • Interfaces • Estructura de datos - List - Maps(Diccionario) · Crear un Map · Recorrer un Map · Mostrar todos los keys · Mostrar todos los values • Stream - StreamController - Stream - StreamTransformer - Listen • Primeros pasos en Flutter - Estructura de un proyecto • Método Main - Widgets - Importar librerías - Scaffold - Container • Stateless y Stateful Widgets - Stateless · Declaración · Método build() · Card - Stateful • Flutter: Widgets - TextField · Introducción · Evento · SetState() · Controller - Diálogos · Display · Actions - Tabs · TabBarView - Navegación -Listas · ListTile · Implementando ListView · Lista Infinita - PageView • Validaciones Formularios (Stateful) - Crear una Form con un GlobalKey - Agregar un TextFormField con la lógica de validación - Crear un botón para validar y enviar el formulario - Ejemplo completo • Arquitectura BLoC y Conexión con Microservicios - Introducción - Estructura del proyecto - Construyendo el proyecto · Dependencias · resources.api (Api Rest) · resources.repositories · blocs · ui Este manual está diseñado de tal forma que usarás todos y cada uno de los puntos que en él se exponen y no solo eso, se han explicado de tal forma que da igual que no hayas programado nunca para móviles que lo entenderás todo. 100% Aprendizaje garantizado. No tengas miedo, solo da el paso.",
+        "language": "es",
+        "smallThumbnail": "http://books.google.com/books/content?id=Oi3RDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Oi3RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=Oi3RDwAAQBAJ&pg=PA24&dq=flutter&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Oi3RDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Oi3RDwAAQBAJ"
+    },
+    {
+        "id": "7qZJEAAAQBAJ",
+        "title": "Flutter for Beginners",
+        "subtitle": "An introductory guide to building cross-platform mobile applications with Flutter 2.5 and Dart",
+        "authors": [
+            "Thomas Bailey",
+            "Alessandro Biessek",
+            "Trevor Wills"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-10-18",
+        "description": "Develop the real-world experience you need to build and launch your own Flutter apps Key Features Get up to speed with the basics of Dart programming and delve into Flutter development Learn about Flutter widgets, plugins, and animations to create a high-quality app user experience Package and deploy your Flutter apps to achieve native-like performance Book Description There have been many attempts at creating frameworks that are truly cross-platform, but most struggle to create a native-like experience at high performance levels. Flutter achieves this with an elegant design and a wealth of third-party plugins, making it the future of mobile app development. If you are a mobile developer who wants to create rich and expressive native apps with the latest Google Flutter framework, this book is for you. This book will guide you through developing your first app from scratch all the way to production release. Starting with the setup of your development environment, you'll learn about your app's UI design and responding to user input via Flutter widgets, manage app navigation and screen transitions, and create widget animations. You'll then explore the rich set of third party-plugins, including Firebase and Google Maps, and get to grips with testing and debugging. Finally, you'll get up to speed with releasing your app to mobile stores and the web. By the end of this Flutter book, you'll have gained the confidence to create, edit, test, and release a full Flutter app on your own. What you will learn Explore the core concepts of the Flutter framework and how it is used for cross-platform development Understand the fundamentals of the Dart programming language Work with Flutter widgets and learn the concepts of stateful and stateless widgets Add animation to your app using animated widgets and advanced animations techniques Master the complete development lifecycle, including testing and debugging Investigate the app release process to both mobile stores and the web Who this book is for This book is for developers looking to learn Google's revolutionary framework Flutter from scratch. No prior knowledge of Flutter or Dart is required.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=7qZJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=7qZJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=7qZJEAAAQBAJ&printsec=frontcover&dq=flutter&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7qZJEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7qZJEAAAQBAJ"
+    },
+    {
+        "id": "PrpJwgEACAAJ",
+        "title": "Flutter in Action",
+        "authors": [
+            "Eric Windmill"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2019-12-10",
+        "description": "Summary In 2017, consumers downloaded 178 billion apps, and analysts predict growth to 258 billion by 2022. Mobile customers are demanding more—and better—apps, and it’s up to developers like you to write them! Flutter, a revolutionary new cross-platform software development kit created by Google, makes it easier than ever to write secure, high-performance native apps for iOS and Android. Flutter apps are blazingly fast because this open source solution compiles your Dart code to platform-specific programs with no JavaScript bridge! Flutter also supports hot reloading to update changes instantly. And thanks to its built-in widgets and rich motion APIs, Flutter’s apps are not just highly responsive, they’re stunning! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology With Flutter, you can build mobile applications using a single, feature-rich SDK that includes everything from a rendering engine to a testing environment. Flutter compiles programs written in Google’s intuitive Dart language to platform-specific code so your iOS and Android games, utilities, and shopping platforms all run like native Java or Swift apps. About the book Flutter in Action teaches you to build professional-quality mobile applications using the Flutter SDK and the Dart programming language. You’ll begin with a quick tour of Dart essentials and then dive into engaging, well-described techniques for building beautiful user interfaces using Flutter’s huge collection of built-in widgets. The combination of diagrams, code examples, and annotations makes learning a snap. As you go, you’ll appreciate how the author makes easy reading of complex topics like routing, state management, and async programming. What's inside Understanding the Flutter approach to the UI All the Dart you need to get started Creating custom animations Testing and debugging About the reader You’ll need basic web or mobile app development skills. About the author Eric Windmill is a professional Dart developer and a contributor to open-source Flutter projects. His work is featured on the Flutter Showcase page. Table of Contents: PART 1 - MEET FLUTTER 1 ¦ Meet Flutter 2 ¦ A brief intro to Dart 3 ¦ Breaking into Flutter PART 2 - FLUTTER USER INTERACTION, STYLES, AND ANIMATIONS 4 ¦ Flutter UI: Important widgets, themes, and layout 5 ¦ User interaction: Forms and gestures 6 ¦ Pushing pixels: Flutter animations and using the canvas PART 3 - STATE MANAGEMENT AND ASYNCHRONOUS DART 7 ¦ Flutter routing in depth 8 ¦ Flutter state management 9 ¦ Async Dart and Flutter and infinite scrolling PART 4 - BEYOND FOUNDATIONS 10 ¦ Working with data: HTTP, Firestore, and JSON 11 ¦ Testing Flutter apps",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=PrpJwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=PrpJwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=PrpJwgEACAAJ&dq=flutter&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.mx/books?id=PrpJwgEACAAJ&dq=flutter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_in_Action.html?hl=&id=PrpJwgEACAAJ"
+    },
+    {
+        "id": "LpM9AQAAMAAJ",
+        "title": "Flutter Testing Techniques",
+        "publishedDate": "1976",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=LpM9AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=LpM9AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=LpM9AQAAMAAJ&q=flutter&dq=flutter&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.mx/books?id=LpM9AQAAMAAJ&dq=flutter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_Testing_Techniques.html?hl=&id=LpM9AQAAMAAJ"
+    },
+    {
+        "id": "iiB9t1g7dU4C",
+        "title": "Subsonic and Supersonic Flutter Analysis of a Highly Tapered Swept-wing Planform, Including Effects of Density Variation and Finite Wing Thickness, and Comparison with Experiments",
+        "authors": [
+            "E. Carson Yates (Jr.)"
+        ],
+        "publishedDate": "1967",
+        "description": "The flutter characteristics of several wings with an aspect-ratio of 4.0, a taper ratio of 0.2, and a quarter-chord sweepback of 45 deg. have been investigated analytically for Mach numbers up to 2.0. The calculations were based on the modified-strip-analysis method, the subsonic-kernel-function method, piston theory, and quasi-steady second-order theory. Results of t h e analysis and comparisons with experiment indicated that: (1) Flutter speeds were accurately predicted by the modified strip analysis, although accuracy at t h e highest Mach numbers required the use of nonlinear aerodynamic theory (which accounts for effects of wing thickness) for the calculation of the aerodynamic parameters. (2) An abrupt increase of flutter-speed coefficient with increasing Mach number, observed experimentally in the transonic range, was also indicated by the modified strip analysis. (3) In the low supersonic range for some densities, a discontinuous variation of flutter frequency with Mach number was indicated by the modified strip analysis. An abrupt change of frequency appeared experimentally in the transonic range. (4) Differences in flutter-speed-coefficient levels obtained from tests at low supersonic Mach numbers in two wind tunnels were also predicted by the modified strip analysis and were shown to be caused primarily by differences in mass ratio. (5) Flutter speeds calculated by the subsonic-kernel-function method were in good agreement with experiment and with the results of the modified strip analysis. (6) Flutter speed obtained from piston theory and from quasi-steady second-order theory were higher than experimental values by at least 38 percent.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=iiB9t1g7dU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=iiB9t1g7dU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=iiB9t1g7dU4C&pg=PA12&dq=flutter&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iiB9t1g7dU4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iiB9t1g7dU4C"
+    },
+    {
+        "id": "0JkYEcsMwvAC",
+        "title": "Real-time Flutter Identification",
+        "authors": [
+            "Richard Roy"
+        ],
+        "publishedDate": "1985",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=0JkYEcsMwvAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=0JkYEcsMwvAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=0JkYEcsMwvAC&q=flutter&dq=flutter&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.mx/books?id=0JkYEcsMwvAC&dq=flutter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Real_time_Flutter_Identification.html?hl=&id=0JkYEcsMwvAC"
+    },
+    {
+        "id": "9rSlDwAAQBAJ",
+        "title": "Flutter: Zero to App",
+        "authors": [
+            "Pouya Hosseini"
+        ],
+        "publisher": "flutterbooks.com",
+        "publishedDate": "2019-07-14",
+        "description": "A hands-on, fast-paced guide to get you started with cross-platform mobile application development with Google's Flutter framework Important Features A thorough introduction of Dart language which is the backbone of Flutter, including: Variables and Types Functions Controls Flows Classes An extensive learning resource on Flutter's most prominent subjects like: Flutter Widgets including: Material Widgets like \"MaterialApp\" and \"Scaffold\" Basic widgets like \"Text\", \"Column\", \"Row\", and many more. Flutter Buttons including: \"RaisedButton\", \"FloatingActionButton\", \"IconButton\", \"DropdownButton\" and more. Flutter Input and Select handling like \"TextField\", \"Form\", \"Checkbox\", etc. Flutter Dialogs and Panels Flutter views like \"ListView\", \"GridView\" and \"PageView\" States and their management in Flutter Navigation and Routing in Flutter Handling Data with Future and Streams Managing Assets in Flutter Creating Custom Themes for Flutter apps Using Plugins and Packages in Flutter Deploying apps for Android and iOS Book Description Google's Flutter is a sophisticated framework for developing mobile, desktop and web applications. Flutter is equipped with the powers of Dart as the primary back-end language. For that, Flutter is extremely efficeint in native performances, and it is as fast as other native development tools. Flutter makes the life of a developer easier through multiple hierarchies: First let's you to code once and deploy to many platforms, then it will provides you with beautifully constructed widgets and tools to quickly build what you want. In this book you will learn how to effectively leverage the mighty power of Flutter and Dart in order to create and build professionally designed applications for both Android and iOS in matter of days. We will look at Flutter's many wonderful features and components in order to harness the capacities of this framework. In the first Part of the book, I will introduce Flutter: what it is, how to install it and so on. In the second part, you will learn the basics of the Dart language, For example how to write a Dart code that uses the notion of Classes, Functions, and Control flow statements. In the third part, you are finally exposed to the idea of a Flutter application, we will discuss some basic yet important widgets, the concept of states, working with buttons, inputs, selections dialogs, panels, views and much more. Then we move on to a more advanced set of topics like handling data in Flutter using Futures and Streams, Navigation and Routing in Flutter, defining assets, themes, fonts, using packages and plugins, and in the end, you will see how to deploy your app to the market. Who this book is for Flutter and ultimately this book is primarily intended to be worked by anyone who wishes to develop and design beautiful, native and cross-platform applications. So, I thank you for putting your trust in this book for learning Flutter and I hope the following pages would be of assistance to your future endeavors.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=9rSlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9rSlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=9rSlDwAAQBAJ&printsec=frontcover&dq=flutter&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9rSlDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9rSlDwAAQBAJ"
+    },
+    {
+        "id": "qNSELe6vC0kC",
+        "title": "Subsonic and Transonic Flutter and Flow Investigations of the T-tail of a Large Multijet Cargo Airplane",
+        "authors": [
+            "Maynard C. Sanford",
+            "Charles L. Ruhlin",
+            "E. Carson Yates (Jr.)"
+        ],
+        "publishedDate": "1968",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=qNSELe6vC0kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=qNSELe6vC0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=qNSELe6vC0kC&pg=PA8&dq=flutter&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qNSELe6vC0kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qNSELe6vC0kC"
+    },
+    {
+        "id": "Ez7syYwXywYC",
+        "title": "Nonlinear Flutter of a Circular Cylindrical Shell in Supersonic Flow",
+        "authors": [
+            "David A. Evensen",
+            "Mervyn D. Olson"
+        ],
+        "publisher": "National Research Council of Canada",
+        "publishedDate": "1967",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=Ez7syYwXywYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Ez7syYwXywYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=Ez7syYwXywYC&q=flutter&dq=flutter&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.mx/books?id=Ez7syYwXywYC&dq=flutter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonlinear_Flutter_of_a_Circular_Cylindri.html?hl=&id=Ez7syYwXywYC"
+    },
+    {
+        "id": "5DpG0QYYazwC",
+        "title": "Effects of Boundary-layer Suction and Spoilers on Transonic Flutter Derivatives for a Midspan Control Surface on an Upswept Wing",
+        "publishedDate": "1960",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=5DpG0QYYazwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=5DpG0QYYazwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=5DpG0QYYazwC&pg=PT1&dq=flutter&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5DpG0QYYazwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5DpG0QYYazwC"
+    },
+    {
+        "id": "NWR9DwAAQBAJ",
+        "title": "Flutter",
+        "subtitle": "For Absolute Beginners",
+        "authors": [
+            "Pouya Hosseini"
+        ],
+        "publisher": "Fatemeh Tajik",
+        "publishedDate": "2018-11-02",
+        "description": "A complete guide to get you started with cross-platform mobile application development with Google Flutter Important Features: 1. Understand the fundamentals of Dart and Flutter to begin cross-platform mobile app development. 2. Learn about Flutter concepts like: - Flutter Widgets - Flutter Classes - Navigation and Routing in Flutter 3. Develop seven Flutter apps from scratch Book Description: Google Flutter is an application development framework for mobile, desktop and web which uses Dart as the primary back-end language. Flutter is highly efficient, fast and easy to work with. In this book, you will learn how to leverage Flutter awesome features and components to develop beautiful native applications. In the first three chapters, you will what is Flutter and how to install Flutter and Dart on Windows, MacOS, and Linux. Then we will explain how to configure IDEs to start programming in Flutter. We will also take a quick and fast-paced journey through the world of Dart programming language which is also developed by Google. After that finally, we are ready to develop with Flutter, in each section of the last chapter of this book we will build a beautiful native Flutter app. All of the source code in these apps are explained line-by-line and every widget or component is explained in full details. In the very last section, you get a quick review of every common widget in Flutter and how to use them with their constructors in one place. So don't worry about searching for them! After reading and implementing this book, you will have learned every useful aspect of Flutter in order to build native cross-platform applications. What you will learn: - Dart basic syntax - Object-oriented programming and its uses in Flutter - Gain knowledge on a massive amount of Flutter Widgets and components - Learn how to add plugins and work with assets like images - Navigation and Pages in your Flutter app - Work with online APIs to get data from the internet and push it to your app What applications you will build: 1. A Dictionary App 2. Simple Wiki 3. Recommender App 4. NASA Picture of the Day 5. Weather App 6. Planets App 7. Quotes App Who this book is for: Anyone who wants to build applications for mobile, desktop and web with Flutter.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=NWR9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=NWR9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=NWR9DwAAQBAJ&pg=PA23&dq=flutter&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NWR9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NWR9DwAAQBAJ"
+    },
+    {
+        "id": "eZbcDwAAQBAJ",
+        "title": "Programming Flutter",
+        "subtitle": "Native, Cross-Platform Apps the Easy Way",
+        "authors": [
+            "Carmine Zaccagnino"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2020-02-25",
+        "description": "Work in Flutter, a framework designed from the ground up for dual platform development, with support for native Java/Kotlin or Objective-C/Swift methods from Flutter apps. Write your next app in one language and build it for both Android and iOS. Deliver the native look, feel, and performance you and your users expect from an app written with each platform's own tools and languages. Deliver apps fast, doing half the work you were doing before and exploiting powerful new features to speed up development. Write once, run anywhere. Learn Flutter, Google's multi-platform mobile development framework. Instantly view the changes you make to an app with stateful hot reload and define a declarative UI in the same language as the app logic, without having to use separate XML UI files. You can also reuse existing platform-specific Android and iOS code and interact with it in an efficient and simple way. Use built-in UI elements - or build your own - to create a simple calculator app. Run native Java/Kotlin or Objective-C/Swift methods from your Flutter apps, and use a Flutter package to make HTTP requests to a Web API or to perform read and write operations on local storage. Apply visual effects to widgets, create transitions and animations, create a chat app using Firebase, and deploy everything on both platforms. Get native look and feel and performance in your Android and iOS apps, and the ability to build for both platforms from a single code base. What You Need: Flutter can be used for Android development on any Linux, Windows or macOS computer, but macOS is needed for iOS development.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=eZbcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=eZbcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=eZbcDwAAQBAJ&pg=PT22&dq=flutter&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eZbcDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eZbcDwAAQBAJ"
+    },
+    {
+        "id": "FwOkDwAAQBAJ",
+        "title": "Practical Flutter",
+        "subtitle": "Improve your Mobile Development with Google’s Latest Open-Source SDK",
+        "authors": [
+            "Frank Zammetti"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-07-19",
+        "description": "Explore what Flutter has to offer, where it came from, and where it’s going. Mobile development is progressing at a fast rate and with Flutter – an open-source mobile application development SDK created by Google – you can develop applications for Android and iOS, as well as Google Fuchsia.Learn to create three apps (a personal information manager, a chat system, and a game project) that you can install on your mobile devices and use for real. You will begin by getting a solid foundation of Flutter knowledge, and building on it immediately by constructing two more traditional productivity apps.. You will also learn to create a game, enabling you to see a whole other perspective on what Flutter can do. In addition to building these apps, you'll have the benefit of reviewing real-world issues you might encounter, along with ways to deal with them through tips and tricks, all designed to make your Flutter experience that much more productive and, frankly, fun! Practical Flutter will leave you with a solid grasp of how to build apps with Flutter, and springboard into creating more advanced apps on your own. By the time your journey through this material concludes, another larger one will begin as you springboard, well-prepared, into the larger world of Flutter development, tackling any project that comes your way with aplomb. Practical Flutter is a learning adventure you won't want to miss. What You'll Learn Get a Flutter project started and logically structure it Use the interface elements Flutter provides, such as widgets, controls, and extensions Build layouts using interface elements Use available tooling, specifically Android Studio Leverage server-side development and connect a Flutter app to a server back-end. Who This Book Is For Mobile developers who are looking to build for multiple mobile platforms and trying to do so with a codebase that is largely the same across all. Basic knowledge of iOS and Android generally, and some general programming experience is expected.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=FwOkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=FwOkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=FwOkDwAAQBAJ&pg=PA17&dq=flutter&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FwOkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FwOkDwAAQBAJ"
+    },
+    {
+        "id": "zDE0EAAAQBAJ",
+        "title": "Flutter Cookbook",
+        "subtitle": "Over 100 proven techniques and solutions for app development with Flutter 2.2 and Dart",
+        "authors": [
+            "Simone Alessandria",
+            "Brian Kayfitz"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-06-18",
+        "description": "This book helps you use the open-source Flutter framework for building native mobile apps using Dart. You’ll learn about Dart programming and add functionalities to your Android and iOS apps for truly native performance. The book also covers recipes for solving almost any issue that you may face while developing multi-platform applications.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=zDE0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=zDE0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=zDE0EAAAQBAJ&pg=PA14&dq=flutter&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zDE0EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zDE0EAAAQBAJ"
+    },
+    {
+        "id": "EzgzEAAAQBAJ",
+        "title": "Flutter in Action",
+        "authors": [
+            "Eric Windmill"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2020-01-07",
+        "description": "Summary In 2017, consumers downloaded 178 billion apps, and analysts predict growth to 258 billion by 2022. Mobile customers are demanding more—and better—apps, and it’s up to developers like you to write them! Flutter, a revolutionary new cross-platform software development kit created by Google, makes it easier than ever to write secure, high-performance native apps for iOS and Android. Flutter apps are blazingly fast because this open source solution compiles your Dart code to platform-specific programs with no JavaScript bridge! Flutter also supports hot reloading to update changes instantly. And thanks to its built-in widgets and rich motion APIs, Flutter’s apps are not just highly responsive, they’re stunning! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology With Flutter, you can build mobile applications using a single, feature-rich SDK that includes everything from a rendering engine to a testing environment. Flutter compiles programs written in Google’s intuitive Dart language to platform-specific code so your iOS and Android games, utilities, and shopping platforms all run like native Java or Swift apps. About the book Flutter in Action teaches you to build professional-quality mobile applications using the Flutter SDK and the Dart programming language. You’ll begin with a quick tour of Dart essentials and then dive into engaging, well-described techniques for building beautiful user interfaces using Flutter’s huge collection of built-in widgets. The combination of diagrams, code examples, and annotations makes learning a snap. As you go, you’ll appreciate how the author makes easy reading of complex topics like routing, state management, and async programming. What's inside Understanding the Flutter approach to the UI All the Dart you need to get started Creating custom animations Testing and debugging About the reader You’ll need basic web or mobile app development skills. About the author Eric Windmill is a professional Dart developer and a contributor to open-source Flutter projects. His work is featured on the Flutter Showcase page. Table of Contents: PART 1 - MEET FLUTTER 1 ¦ Meet Flutter 2 ¦ A brief intro to Dart 3 ¦ Breaking into Flutter PART 2 - FLUTTER USER INTERACTION, STYLES, AND ANIMATIONS 4 ¦ Flutter UI: Important widgets, themes, and layout 5 ¦ User interaction: Forms and gestures 6 ¦ Pushing pixels: Flutter animations and using the canvas PART 3 - STATE MANAGEMENT AND ASYNCHRONOUS DART 7 ¦ Flutter routing in depth 8 ¦ Flutter state management 9 ¦ Async Dart and Flutter and infinite scrolling PART 4 - BEYOND FOUNDATIONS 10 ¦ Working with data: HTTP, Firestore, and JSON 11 ¦ Testing Flutter apps",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=EzgzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=EzgzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=EzgzEAAAQBAJ&pg=PT32&dq=flutter&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EzgzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EzgzEAAAQBAJ"
+    },
+    {
+        "id": "Om21DwAAQBAJ",
+        "title": "Flutter Recipes",
+        "subtitle": "Mobile Development Solutions for iOS and Android",
+        "authors": [
+            "Fu Cheng"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-10-10",
+        "description": "Take advantage of this comprehensive reference to solving common problems when developing with Flutter. Along with an introduction to the basic concepts of Flutter development, the recipes in this book cover all important aspects of this emerging technology, including development, testing, debugging, performance tuning, app publishing, and continuous integration. Although Flutter presents a rich, cross-platform mobile development framework, helpful documentation is not easily found. Here you’ll review solutions to various scenarios and use creative, tested ways to accomplish everything from simple to complex development tasks. Flutter is developed using Dart and contains a unique technology stack that sets it apart from its competitors. This book takes the mystery out of working with the Dart language and integrating Flutter into your already existing workflows and development projects. With Flutter Recipes, you’ll learn how to build and deploy apps freshly started in Flutter, as well as apps already in progress, while side-stepping any potential roadblocks you may face along the way. What You'll Learn Debug with Dart Observatory Program accessibility and localization features Build and release apps for iOS and Android Incorporate reactive programming Who This Book Is For Mobile developers with some experience in other frameworks who would like to work with the growing and popular Flutter.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=Om21DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Om21DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=Om21DwAAQBAJ&pg=PA64&dq=flutter&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Om21DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Om21DwAAQBAJ"
+    },
+    {
+        "id": "pF6vDwAAQBAJ",
+        "title": "Flutter for Beginners",
+        "subtitle": "An introductory guide to building cross-platform mobile applications with Flutter and Dart 2",
+        "authors": [
+            "Alessandro Biessek"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-09-12",
+        "description": "A step-by-step guide to learning Flutter and Dart 2 for creating Android and iOS mobile applications Key Features Get up to speed with the basics of Dart programming and delve into Flutter development Understand native SDK and third-party libraries for building Android and iOS applications using Flutter Package and deploy your Flutter apps to achieve native-like performance Book Description Google Flutter is a cross-platform mobile framework that makes it easy to write high-performance apps for Android and iOS. This book will help you get to grips with the basics of the Flutter framework and the Dart programming language. Starting from setting up your development environment, you'll learn to design the UI and add user input functions. You'll explore the navigator widget to manage app routes and learn to add transitions between screens. The book will even guide you through developing your own plugin and later, you'll discover how to structure good plugin code. Using the Google Places API, you'll also understand how to display a map in the app and add markers and interactions to it. You'll then learn to improve the user experience with features such as map integrations, platform-specific code with native languages, and personalized animation options for designing intuitive UIs. The book follows a practical approach and gives you access to all relevant code files hosted at github.com/PacktPublishing/Flutter-for-Beginners. This will help you access a variety of examples and prepare your own bug-free apps, ready to deploy on the App Store and Google Play Store. By the end of this book, you'll be well-versed with Dart programming and have the skills to develop your own mobile apps or build a career as a Dart and Flutter app developer. What you will learn Understand the fundamentals of the Dart programming language Explore the core concepts of the Flutter UI and how it compiles for multiple platforms Develop Flutter plugins and widgets and understand how to structure plugin code appropriately Style your Android and iOS apps with widgets and learn the difference between stateful and stateless widgets Add animation to your UI using Flutter's AnimatedBuilder component Integrate your native code into your Flutter codebase for native app performance Who this book is for This book is for developers looking to learn Google's revolutionary framework Flutter from scratch. No prior knowledge of Flutter or Dart is required; however, basic knowledge of any programming language will be helpful.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=pF6vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pF6vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=pF6vDwAAQBAJ&pg=PA296&dq=flutter&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pF6vDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pF6vDwAAQBAJ"
+    },
+    {
+        "id": "cx7ZjSxyW_8C",
+        "title": "Flutter Investigation of a True-speed Dynamic Model with Various Tip-tank Configurations",
+        "authors": [
+            "John L. Sewall",
+            "William B. Igoe"
+        ],
+        "publishedDate": "1955",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=cx7ZjSxyW_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=cx7ZjSxyW_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=cx7ZjSxyW_8C&pg=PA36&dq=flutter&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cx7ZjSxyW_8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cx7ZjSxyW_8C"
+    },
+    {
+        "id": "junbDwAAQBAJ",
+        "title": "Flutter Projects",
+        "subtitle": "A practical, project-based guide to building real-world cross-platform mobile applications and games",
+        "authors": [
+            "Simone Alessandria"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2020-04-07",
+        "description": "Learn Flutter and the Dart programming language by building impressive real-world mobile applications for Android and iOS Key Features Learn cross-platform mobile development with Flutter and Dart by building 11 real-world apps Create wide array of mobile projects such as 2D game, productivity timer, movie browsing app, and more Practical projects demonstrating Flutter development techniques with tips, tricks, and best practices Book Description Flutter is a modern reactive mobile framework that removes a lot of the complexity found in building native mobile apps for iOS and Android. With Flutter, developers can now build fast and native mobile apps from a single codebase. This book is packed with 11 projects that will help you build your own mobile applications using Flutter. It begins with an introduction to Dart programming and explains how it can be used with the Flutter SDK to customize mobile apps. Each chapter contains instructions on how to build an independent app from scratch, and each project focuses on important Flutter features.From building Flutter Widgets and applying animations to using databases (SQLite and sembast) and Firebase, you'll build on your knowledge through the chapters. As you progress, you’ll learn how to connect to remote services, integrate maps, and even use Flare to create apps and games in Flutter. Gradually, you’ll be able to create apps and games that are ready to be published on the Google Play Store and the App Store. In the concluding chapters, you’ll learn how to use the BLoC pattern and various best practices related to creating enterprise apps with Flutter. By the end of this book, you will have the skills you need to write and deliver fully functional mobile apps using Flutter. What you will learn Design reusable mobile architectures that can be applied to apps at any scale Get up to speed with error handling and debugging for mobile application development Apply the principle of ‘composition over inheritance’ to break down complex problems into many simple problems Update your code and see the results immediately using Flutter’s hot reload Identify and prevent bugs from reappearing with Flutter’s developer tools Manage an app's state with Streams and the BLoC pattern Build a simple web application using Flutter Web Who this book is for This book is for mobile developers and software developers who want to learn Flutter to build state-of-the-art mobile apps. Although prior experience with Dart programming or Flutter is not required, knowledge of object-oriented programming (OOP), data structures and software design patterns will be beneficial.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=junbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=junbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=junbDwAAQBAJ&printsec=frontcover&dq=flutter&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=junbDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=junbDwAAQBAJ"
+    },
+    {
+        "id": "bendTxE6xdcC",
+        "title": "An Experimental Study of the Flutter of Sails Having a Delta Planform Tested from a Mach Number of 0.1 to a Mach Number of 1.9",
+        "authors": [
+            "Robert W. Hess"
+        ],
+        "publishedDate": "1961",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=bendTxE6xdcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=bendTxE6xdcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=bendTxE6xdcC&pg=PA13&dq=flutter&hl=&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bendTxE6xdcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bendTxE6xdcC"
+    },
+    {
+        "id": "xX44AQAAIAAJ",
+        "title": "Design and Experimental Validation of a Flutter Suppression Controller for the Active Flexible Wing",
+        "authors": [
+            "Martin R. Waszak"
+        ],
+        "publishedDate": "1992",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=xX44AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=xX44AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=xX44AQAAIAAJ&pg=PA5&dq=flutter&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xX44AQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xX44AQAAIAAJ"
+    },
+    {
+        "id": "Jr7vDwAAQBAJ",
+        "title": "Flutter For Dummies",
+        "authors": [
+            "Barry Burd"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2020-07-06",
+        "description": "Create awesome iOS and Android apps with a single tool! Flutter is an app developer’s dream come true. With Google’s open source toolkit, you can easily build beautiful apps that work across platforms using a single codebase. This flexibility allows you to get your work out to the widest possible audience. Flutter is already being used by thousands of developers worldwide in a market where billions of apps are downloaded every year. Now is the right time to get ahead of the curve with this incredible tool. Flutter for Dummies is your friendly, ground-up route to creating multi-platform apps. From how to construct your initial frameworks to writing code in Dart, you’ll find the essentials you need to ride the Flutter revolutionary wave to success. This book includes guidance on how to create an intuitive and stunning UI, add interactivity, and easily pull in data. You’ll also see how Flutter features like Hot Reload—providing sub-second refreshes as you refine your work—help you make sure your app is a delight to use. · Start simple: follow steps to build a basic app · It’s alive! Keep connected to online data · It moves! Make things fun with animated features · Get the word out: use tips to expand your audience Whether you’re a fledgling developer or an expert wanting to add a slick feather to your programming cap, join the Flutter revolution now and soar above the rest!",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=Jr7vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Jr7vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=Jr7vDwAAQBAJ&pg=PA15&dq=flutter&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Jr7vDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jr7vDwAAQBAJ"
+    },
+    {
+        "id": "dWnxvvbgcMEC",
+        "title": "Experimental Panel Flutter Results for Some Flat and Curved Titanium Skin Panels at Supersonic Speeds",
+        "authors": [
+            "John G. Presnell (Jr.)"
+        ],
+        "publishedDate": "1963",
+        "description": "The results of tests at Mach numbers from 1.72 to 2.62 on panels having a thickness from O. Ol5 to 0.045 inch, length-width ratio from 0.36 to 2.76, and radius-thickness ratio from 600 to infinity are presented. These results indicate a strong influence of differential pressure, which caused buckling on the flutter mode and on the dynamic pressure flutter for the curved panels. Results for both the flat and curved pan 5 fall within an extrapolation of an existing experimental panel flutter boundary.",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=dWnxvvbgcMEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=dWnxvvbgcMEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=dWnxvvbgcMEC&pg=PA15&dq=flutter&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dWnxvvbgcMEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dWnxvvbgcMEC"
+    },
+    {
+        "id": "qf4UAQAAIAAJ",
+        "title": "Analytical and Experimental Investigation of Flutter Suppression by Piezoelectric Actuation",
+        "authors": [
+            "Jennifer Heeg"
+        ],
+        "publishedDate": "1993",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=qf4UAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=qf4UAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=qf4UAQAAIAAJ&pg=PA27&dq=flutter&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qf4UAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qf4UAQAAIAAJ"
+    },
+    {
+        "id": "D-QhBAAAQBAJ",
+        "title": "Whirl Flutter of Turboprop Aircraft Structures",
+        "authors": [
+            "Jiri Cecrdle"
+        ],
+        "publisher": "Woodhead Publishing",
+        "publishedDate": "2015-01-27",
+        "description": "Whirl flutter is the aeroelastic phenomenon caused by the coupling of aircraft propeller aerodynamic forces and the gyroscopic forces of the rotating masses (propeller, gas turbine engine rotor). It may occur on the turboprop, tilt-prop-rotor or rotorcraft aircraft structures. Whirl Flutter of Turboprop Aircraft Structures explores the whirl flutter phenomenon, including theoretical and practical as well as analytical and experimental aspects of the matter. The first introductory part gives a general overview regarding aeroelasticity, followed by the physical principle and the occurrence of whirl flutter in aerospace practice. The next section deals with experiment research including earlier activities performed, particularly from the sixties, as well as recent developments. Subsequent chapters discuss analytical methods such as basic and advanced linear models, and non-linear and CFD based methods. Remaining chapters summarize certification issues including regulation requirements, a description of possible certification approaches and several examples of aircraft certification from the aerospace practice. Finally, a database of relevant books and reports is provided. provides complex information of turboprop aircraft whirl flutter phenomenon presents both theoretical and practical (certification related) issues presents experimental research as well as analytical models (basic and advanced) of matter includes both early-performed works and recent developments contains a listing of relevant books and reports",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=D-QhBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=D-QhBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=D-QhBAAAQBAJ&pg=PA260&dq=flutter&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=D-QhBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D-QhBAAAQBAJ"
+    },
+    {
+        "id": "WjpjtIQh57UC",
+        "title": "Flutter of Flat Rectangular Orthotropic Panels with Biaxial Loading and Arbitrary Flow Direction",
+        "authors": [
+            "Herman L. Bohon"
+        ],
+        "publishedDate": "1963",
+        "language": "en",
+        "smallThumbnail": "http://books.google.com/books/content?id=WjpjtIQh57UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=WjpjtIQh57UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "previewLink": "http://books.google.com.mx/books?id=WjpjtIQh57UC&pg=PT9&dq=flutter&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WjpjtIQh57UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WjpjtIQh57UC"
+    }
+]
